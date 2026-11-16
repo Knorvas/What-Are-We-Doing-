@@ -1,2 +1,2 @@
 # What-Are-We-Doing-
-A repository for a tier list, by US.
+A repository for a tier list, by us.
